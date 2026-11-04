@@ -227,25 +227,25 @@ The dashboard was designed as a single-page summary of the SQL analysis.
 
 Key Insights
 
-Traffic has a strong association with delivery time
+1.Traffic has a strong association with delivery time
 
-Average delivery time was **31.18 minutes during Jam traffic** compared with **21.27 minutes during Low traffic**.
+2.Average delivery time was **31.18 minutes during Jam traffic** compared with **21.27 minutes during Low traffic**.
 
-Weather conditions are associated with different delivery times
+3.Weather conditions are associated with different delivery times
 
-Cloudy and foggy conditions had higher average delivery times than sunny conditions in this dataset.
+4.Cloudy and foggy conditions had higher average delivery times than sunny conditions in this dataset.
 
-Multiple deliveries are associated with longer delivery times
+5.Multiple deliveries are associated with longer delivery times
 
-Average delivery time increased from **22.88 minutes** for orders with 0 multiple deliveries to **47.82 minutes** for orders with 3.
+6.Average delivery time increased from **22.88 minutes** for orders with 0 multiple deliveries to **47.82 minutes** for orders with 3.
 
-Evening deliveries take longer on average
+7.Evening deliveries take longer on average
 
-Evening deliveries averaged **29.66 minutes**, compared with **21.42 minutes** in the morning.
+8.Evening deliveries averaged **29.66 minutes**, compared with **21.42 minutes** in the morning.
 
-Order type shows relatively little difference
+9.Order type shows relatively little difference
 
-Meal, Snack, Buffet and Drinks had very similar average delivery times, with only about **0.23 minutes** separating the highest and lowest averages.
+10.Meal, Snack, Buffet and Drinks had very similar average delivery times, with only about **0.23 minutes** separating the highest and lowest averages.
 
 ---
 
